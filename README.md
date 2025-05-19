@@ -95,7 +95,7 @@ These projects reflect not only technical SQL skills but also my ability to thin
 
 ---
 
-### 🔹 **Project 2: Bank Customer Churn Analysis**
+### 🔹 **Project 2: Netflix Movies & TV Shows Analysis**
 
 📌 **Objective**: Investigate customer churn behavior using SQL analytics and segmentation techniques.
 
@@ -107,7 +107,7 @@ These projects reflect not only technical SQL skills but also my ability to thin
 
 📊 **Deliverables**: SQL report + churn KPIs for presentation
 🛠 **Tools**: MySQL, MySQL Workbench
-📁 **[View Project](#)**
+📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Netflix%20Movies%20and%20TV%20Shows)**
 
 ---
 
