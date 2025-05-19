@@ -91,7 +91,7 @@ These projects reflect not only technical SQL skills but also my ability to thin
 
 📊 **Integration**: Data queried via SQL 
 🛠 **Tools**: MySQL
-📁 **[View Project](#)**
+📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/blob/main/README.md)**
 
 ---
 
