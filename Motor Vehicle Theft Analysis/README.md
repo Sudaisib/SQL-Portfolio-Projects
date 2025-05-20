@@ -2,9 +2,6 @@
 # 🚗🔍 Motor Vehicle Theft Analysis – New Zealand   
 ![WhatsApp Image 2025-03-26 at 21 35 46_11b75099](https://github.com/user-attachments/assets/3ff83e03-ccb7-405e-9d5f-be32e900d8e7)
 
----  
-Here’s a perfectly **rearranged and clean** version of your **Table of Contents**, structured for clarity, logical flow, and hierarchy:
-
 ---
 
 ## 📌 **Table of Contents** 🗂️
