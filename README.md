@@ -111,7 +111,7 @@ These projects reflect not only technical SQL skills but also my ability to thin
 
 ---
 
-### 🔹 **Project 3: Flight Satisfaction Analytics (Airline Dataset)**
+### 🔹 **Project 3: Restaurant Rating Analysis**
 
 📌 **Objective**: Analyze passenger feedback and service quality metrics to improve customer satisfaction.
 
@@ -121,7 +121,7 @@ These projects reflect not only technical SQL skills but also my ability to thin
 * Aggregation to generate average satisfaction score by flight class
 * Correlation between delay time and passenger rating using SQL logic
 
-📁 **[View Project](#)**
+📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Restaurant%20Rating%20Analysis)**
 
 ---
 
