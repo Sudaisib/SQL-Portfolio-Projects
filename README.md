@@ -91,7 +91,8 @@ These projects reflect not only technical SQL skills but also my ability to thin
 
 📊 **Integration**: Data queried via SQL 
 🛠 **Tools**: MySQL
-📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/blob/main/README.md)**
+
+📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/edit/main/Motor%20Vehicle%20Theft%20Analysis/README.md)**
 
 ---
 
@@ -107,50 +108,23 @@ These projects reflect not only technical SQL skills but also my ability to thin
 
 📊 **Deliverables**: SQL report + churn KPIs for presentation
 🛠 **Tools**: MySQL, MySQL Workbench
+
 📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Netflix%20Movies%20and%20TV%20Shows)**
 
 ---
 
-### 🔹 **Project 3: Restaurant Rating Analysis**
+### 🔹 **Project 3: Restaurant Rating Analysis** 🍽️⭐
 
-📌 **Objective**: Analyze passenger feedback and service quality metrics to improve customer satisfaction.
+**Objective:**
+To analyze restaurant customer feedback and service quality metrics to identify key drivers of customer satisfaction and improve overall dining experience. 🎯😊
 
-✔ Query Highlights:
+**Query Highlights:**
 
-* Joins between demographic, flight, and satisfaction tables
-* Aggregation to generate average satisfaction score by flight class
-* Correlation between delay time and passenger rating using SQL logic
+* 🔗 Performed SQL joins across demographic, restaurant visit, and rating tables to consolidate relevant data.
+* 📊 Aggregated data to calculate average satisfaction scores segmented by restaurant type and customer demographics.
+* 🔍 Explored correlations between service delays (e.g., wait time) and customer ratings using SQL queries to identify potential areas for operational improvement. ⏳📈
 
 📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Restaurant%20Rating%20Analysis)**
-
----
-
-### 🔹 **Project 4: E-Commerce Revenue and Customer Insight**
-
-📌 **Objective**: Build a comprehensive SQL pipeline for e-commerce transaction data: from ingestion to dashboard-ready tables.
-
-✔ Features:
-
-* Transaction revenue trend analysis by country
-* Customer lifetime value calculation using SQL
-* RFM (Recency-Frequency-Monetary) modeling in pure SQL
-
-🛠 **Tools**: PostgreSQL + Google BigQuery
-📁 **[View Project](#)**
-
----
-
-### 🔹 **Project 5: Telecom Data Usage & Customer Behavior (MTN Nigeria)**
-
-📌 **Objective**: Profile customer usage patterns and detect anomalies in data consumption.
-
-✔ Techniques Used:
-
-* Window functions to track data usage trends
-* Custom KPIs: Average MB used per user, churn detection via lag()
-* Data transformation for reporting in Power BI
-
-📁 **[View Project](#)**
 
 ---
 
