@@ -1,6 +1,7 @@
 
 # 🚗🔍 Motor Vehicle Theft Analysis – New Zealand   
-![WhatsApp Image 2025-03-26 at 21 35 46_11b75099](https://github.com/user-attachments/assets/3ff83e03-ccb7-405e-9d5f-be32e900d8e7)
+
+![theft](https://github.com/user-attachments/assets/519354ef-7739-42ac-a03a-70fcf506cb41)
 
 ---
 
