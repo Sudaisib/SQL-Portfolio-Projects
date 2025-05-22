@@ -79,28 +79,28 @@ These projects reflect not only technical SQL skills but also my ability to thin
 ---
 ## 🧱 **Project Breakdown**
 
-### 🔹 **Project 1: Motor Vahicle Theft Analysis (SQL)**
+### 🔹 **Project 1: Motor Vehicle Theft Analysis (SQL)** 🚓📉
 
 📌 **Objective**: Analyze sales trends, customer segmentation, and regional performance using SQL queries on a retail dataset.
 
-✔ Query Highlights:
+✔ **Query Highlights**:
 
 * Joins across multiple tables (orders, customers, products, regions)
 * Use of CTEs and window functions for running totals
 * Grouping and filtering to create metrics: sales per category, average order value, top products
 
-📊 **Integration**: Data queried via SQL 
+📊 **Integration**: Data queried via SQL
 🛠 **Tools**: MySQL
 
-📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/edit/main/Motor%20Vehicle%20Theft%20Analysis/README.md)**
+📁 **[View Project](https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Motor%20Vehicle%20Theft%20Analysis)**
 
 ---
 
-### 🔹 **Project 2: Netflix Movies & TV Shows Analysis**
+### 🔹 **Project 2: Netflix Movies & TV Shows Analysis** 🎬📺
 
 📌 **Objective**: Investigate customer churn behavior using SQL analytics and segmentation techniques.
 
-✔ Query Highlights:
+✔ **Query Highlights**:
 
 * Use of CASE WHEN for churn classification
 * Subqueries for churn rate by age group and income bracket
@@ -109,24 +109,25 @@ These projects reflect not only technical SQL skills but also my ability to thin
 📊 **Deliverables**: SQL report + churn KPIs for presentation
 🛠 **Tools**: MySQL, MySQL Workbench
 
-📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Netflix%20Movies%20and%20TV%20Shows)**
+📁 **[View Project](https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Netflix%20Movies%20and%20TV%20Shows)**
 
 ---
 
 ### 🔹 **Project 3: Restaurant Rating Analysis** 🍽️⭐
 
-**Objective:**
+📌 **Objective**:
 To analyze restaurant customer feedback and service quality metrics to identify key drivers of customer satisfaction and improve overall dining experience. 🎯😊
 
-**Query Highlights:**
+✔ **Query Highlights**:
 
-* 🔗 Performed SQL joins across demographic, restaurant visit, and rating tables to consolidate relevant data.
-* 📊 Aggregated data to calculate average satisfaction scores segmented by restaurant type and customer demographics.
-* 🔍 Explored correlations between service delays (e.g., wait time) and customer ratings using SQL queries to identify potential areas for operational improvement. ⏳📈
+* 🔗 SQL joins across demographic, restaurant visit, and rating tables
+* 📊 Aggregation of satisfaction scores by restaurant type and customer demographics
+* 🔍 Correlation analysis between wait time and customer ratings
 
-📁 **[View Project](#https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Restaurant%20Rating%20Analysis)**
+📁 **[View Project](https://github.com/Sudaisib/SQL-Portfolio-Projects/tree/main/Restaurant%20Rating%20Analysis)**
 
 ---
+
 
 ## 🛠 **SQL Stack & Tools**
 
@@ -180,5 +181,8 @@ Here’s how I ensure clean, scalable SQL code:
 
 📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
 🔗 **LinkedIn**: [linkedin.com/in/oladosu-ibrahim-12427b197](https://www.linkedin.com/in/oladosu-ibrahim-12427b197)
+
+
+
 
 
